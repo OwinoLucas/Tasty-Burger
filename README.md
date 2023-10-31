@@ -1,13 +1,24 @@
 ##Tasty Burger
 ##########################
 
-Tasty burger is an online web portal to allow users to register and oreder for a burger from 
+Tasty burger is an online web portal to allow users to register and order for a burger from 
 tasty burger.
+
+# Screenshots
+## Home Page
+![Screenshot from 2023-10-31 15-54-27](https://github.com/OwinoLucas/djangoAPIS/assets/60548928/2266017c-ee8b-420b-a5dc-0b46def1f0cc)
+
+## Services
+![Screenshot from 2023-10-31 15-54-48](https://github.com/OwinoLucas/djangoAPIS/assets/60548928/27d79fff-ddca-49e3-8a59-59caad65c00f)
+
+## Blog
+![Screenshot from 2023-10-31 15-55-04](https://github.com/OwinoLucas/djangoAPIS/assets/60548928/6728f135-53cf-4714-9e36-244c0d20e37e)
+
 
 # Getting Started
 
 1). Clone the application from the repo
-	git clone https://github.com/njugunanduati/tasty_burger.git
+	git clone [repo link]
 
 2). Change the durectoy
 	cd tasty_burger
@@ -31,7 +42,7 @@ tasty burger.
 
 	export EMAIL_PASSWORD='your_password' 
 7). Create a superuser
-		python manage.py createsuperuser 
+	python manage.py createsuperuser 
 
 9). Run the application
 
